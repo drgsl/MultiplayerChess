@@ -1,4 +1,4 @@
-# 🎲 Multiplayer Console Chess built with Sockets in C 🏆
+# 🎲 Multiplayer Console Chess built with Sockets in C
 
 This project is a two-player console-based chess game built using sockets in C. 
 The game allows players to connect to a server and play a game of chess with each other.

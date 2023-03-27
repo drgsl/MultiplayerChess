@@ -22,7 +22,7 @@ For each client you want to connect, execute the `./client 127.0.0 5005` command
 This project consists of three components:
 
 
-<img align="left" src="https://github.com/BobuDragos/MultiplayerChess/blob/main/chessServerDiagram.png" width="30%" />
+<img align="left" src="https://github.com/BobuDragos/MultiplayerChess/blob/main/chessServerDiagram.png" width="35%" />
 
 ### Server Script
 The Server Script acts as a supervisor for the game of chess. It creates a socket for the two clients to connect to and then forks and creates a session for them. The server serves as a central point for both clients, as it relays the moves between them. 
